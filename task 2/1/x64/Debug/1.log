@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  task2.cpp
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task 2\1\task2.cpp(181,18): error C2440: return: невозможно преобразовать "Vector3D" в "Vector3D &"
+      D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task 2\1\task2.cpp(181,18):
+      Неконстантная ссылка может быть связана только с левосторонним значением
+  

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORKING_FOLDER\\C\u002B\u002B\\2nd_year\\Tasks2025cpp\\task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB09C2-8468-4BBA-B200-9385936450CB}|task4\\task4.vcxproj|D:\\WORKING_FOLDER\\C\u002B\u002B\\2nd_year\\Tasks2025cpp\\task4\\task4\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78CB09C2-8468-4BBA-B200-9385936450CB}|task4\\task4.vcxproj|solutionrelative:task4\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task4.cpp",
+              "DocumentMoniker": "D:\\WORKING_FOLDER\\C\u002B\u002B\\2nd_year\\Tasks2025cpp\\task4\\task4\\task4.cpp",
+              "RelativeDocumentMoniker": "task4\\task4.cpp",
+              "ToolTip": "D:\\WORKING_FOLDER\\C\u002B\u002B\\2nd_year\\Tasks2025cpp\\task4\\task4\\task4.cpp",
+              "RelativeToolTip": "task4\\task4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T10:13:17.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
