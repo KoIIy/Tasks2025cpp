@@ -1,2 +1,11 @@
 ﻿  task5.cpp
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(194,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(194,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(197,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(197,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(200,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(200,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(207,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\task5\task5.cpp(207,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  LINK : не найден или не выполнена сборка D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\x64\Debug\task5.exe при последней инкрементной компоновке; выполняется полная компоновка
   task5.vcxproj -> D:\WORKING_FOLDER\C++\2nd_year\Tasks2025cpp\task5\x64\Debug\task5.exe

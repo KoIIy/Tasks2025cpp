@@ -211,6 +211,56 @@ public:
     }
 };
 
+class String {
+public:
+    size_t size = 0;
+    char* data;
+    String(const char* _data) {
+        size = strlen(_data);
+        data = new char[size + 1];
+        strcpy_s(data, size + 1, _data);
+    }
+    String(const String& other) {
+        size = other.size;
+        data = new char[size + 1];
+        strcpy_s(data, size + 1, other.data);
+    }
+    String() {
+        data = new char[1];
+    }
+    ~String() {
+        delete[] data;
+    }
+    const char* getStartCharArray() {
+        return data;
+    }
+    char getChar(size_t index) {
+        if (index >= size)
+        {
+            throw(runtime_error("Индекс вышел за пределы строки"));
+        }
+        return data[index];
+    }
+    bool operator==(const String& other) {
+        if (size != other.size) {
+            return false;
+        }
+        for (int i = 0; i < size; i++) {
+            if (data[i] != other.data[i]) {
+                return false;
+            }
+        }
+        return true;
+    }
+    char& operator[](size_t index) {
+        if (index >= size) {
+            throw(runtime_error("Индекс вышел за пределы строки"));
+        }
+        return data[index];
+    }
+
+};
+
 int main()
 {
     try {
